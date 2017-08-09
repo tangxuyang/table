@@ -94,7 +94,7 @@ $('#myTable').wktable({
 </script>
 ```
 运行结果如下：
-
+![](https://github.com/tangxuyang/table/blob/master/image.png)
  
 Options
 在首次调用wktable时需要传入一个options对象，它支持如下的属性：
