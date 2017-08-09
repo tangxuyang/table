@@ -150,12 +150,12 @@ columns:[//表格列头配置属性
     }
 ```
 jQuery.wktable暴露了如下方法，供编程调用：
-    - goto：跳转到指定页，接受一个整型参数
-    - next：下一页，无参
-    - prev：上一页，无参
-    - refresh：刷新当前页，无参
-    - setOptions：设置options
-    - search：查询，接受对象参数
+- goto：跳转到指定页，接受一个整型参数
+- next：下一页，无参
+- prev：上一页，无参
+- refresh：刷新当前页，无参
+- setOptions：设置options
+- search：查询，接受对象参数
  
 调用方式，这里假设，点击了查询按钮，按照name=“mks”查询，可以如下编写代码：
 ```
